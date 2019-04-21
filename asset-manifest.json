@@ -1,13 +1,13 @@
 {
   "main.css": "/sports2/static/css/main.90c12fd2.chunk.css",
-  "main.js": "/sports2/static/js/main.07b978af.chunk.js",
-  "main.js.map": "/sports2/static/js/main.07b978af.chunk.js.map",
+  "main.js": "/sports2/static/js/main.4b83ade6.chunk.js",
+  "main.js.map": "/sports2/static/js/main.4b83ade6.chunk.js.map",
   "runtime~main.js": "/sports2/static/js/runtime~main.0ba6d7e7.js",
   "runtime~main.js.map": "/sports2/static/js/runtime~main.0ba6d7e7.js.map",
   "static/js/2.2c74f348.chunk.js": "/sports2/static/js/2.2c74f348.chunk.js",
   "static/js/2.2c74f348.chunk.js.map": "/sports2/static/js/2.2c74f348.chunk.js.map",
   "index.html": "/sports2/index.html",
-  "precache-manifest.fd9169ff066cbd13b79f94ffbb958d95.js": "/sports2/precache-manifest.fd9169ff066cbd13b79f94ffbb958d95.js",
+  "precache-manifest.950ab5e354fe2feae008fe6f5cf4a728.js": "/sports2/precache-manifest.950ab5e354fe2feae008fe6f5cf4a728.js",
   "service-worker.js": "/sports2/service-worker.js",
   "static/css/main.90c12fd2.chunk.css.map": "/sports2/static/css/main.90c12fd2.chunk.css.map"
 }
